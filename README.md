@@ -1,7 +1,6 @@
 <h1 align="center">Hi, I'm Prakhar 🙃</h1>
-<h3 align="center">I am a 3rd year Computer Science student @McMaster University.</h3>
+<h3 align="center">I am a 3rd year Computer Science student @McMaster University with a passion for AI/ML and Data Analysis</h3>
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
