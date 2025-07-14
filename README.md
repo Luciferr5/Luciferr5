@@ -10,9 +10,8 @@
 ## 🌱 I'm currently learning
 - Supervised **Machine Learning** techniques.
 - C# for **.NET** development and its applications in modern software.
-- Always various **AI** technologies including applications of **RAG** and **Vector Databases**.
-- Learning **Quantitative Finance** through data analysis and exploring financial modeling techniques.
-- Applying **Machine Learning** to **AI** projects, including a simplied version of **Jarvis** from Iron Man!
+- RPA fundamentals for process automation.
+- Various ** Agentic AI** technologies including applications of **RAG** and **Vector Databases**.
 
 ## 📣 Reach out to me
 - [Portfolio Website](https://www.prakharsaxena.dev)
